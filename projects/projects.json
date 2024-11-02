@@ -1,0 +1,103 @@
+[
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "AI",
+    "links": {
+      "view": "https://github.com/pothulavenu",
+      "code": "https://github.com/pothulavenu"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pothulavenu"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Web UI Clones",
+    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "image": "webuiclones",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/pothulavenu"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": ".AI",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "AI",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KIA Info Website",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "KIA",
+    "category": "AI",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
